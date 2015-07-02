@@ -1,3 +1,3 @@
 # hello-world
-Test repo
+Test repo.
 Adding a bit more text.
